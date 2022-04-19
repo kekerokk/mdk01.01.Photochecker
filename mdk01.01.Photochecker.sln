@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mdk01.01.Photochecker", "mdk01.01.Photochecker\mdk01.01.Photochecker.csproj", "{49F917AF-634C-4055-868B-71D25F9434AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F917AF-634C-4055-868B-71D25F9434AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F917AF-634C-4055-868B-71D25F9434AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F917AF-634C-4055-868B-71D25F9434AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F917AF-634C-4055-868B-71D25F9434AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62016164-098E-4FCC-8B6B-3671ED69FEA0}
+	EndGlobalSection
+EndGlobal
